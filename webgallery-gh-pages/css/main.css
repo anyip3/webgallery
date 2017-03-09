@@ -4,7 +4,7 @@
 body {
   color: #333333; 
   font-family: 'Helvetica Neue', Helvetica, sans-serif;
-  background-color: #91FFFF;              /*change your Bkg color*/
+  background-color: #c4dce1;              /*change your Bkg color*/
 
 }
 
@@ -31,7 +31,7 @@ footer p {
 
 header {
   background: #C8C1B7;
-  background-image: url("../img/ayipbanner.jpg"); /*change your banner image*/
+  background-image: url("../img/gallerybanner.jpg"); /*change your banner image*/
   background-size: cover;
   border-bottom: 1px solid #999999;
   height: 120px;
