@@ -31,7 +31,7 @@ footer p {
 
 header {
   background: #C8C1B7;
-  background-image: url("../img/ayipbanner.jpg"); /*change your banner image*/
+  background-image: url("../img/ayipBanner.jpg"); /*change your banner image*/
   background-size: cover;
   border-bottom: 1px solid #999999;
   height: 120px;
